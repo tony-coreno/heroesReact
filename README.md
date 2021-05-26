@@ -5,5 +5,5 @@
 Enlace versión
 
 ```
-https://nervous-colden-dfd1a9.netlify.app/marvel
+https://nervous-colden-dfd1a9.netlify.app/
 ```
