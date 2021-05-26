@@ -9,7 +9,7 @@ const NavBarra = () => {
                 className="navbar-brand" 
                 to="/"
             >
-                Asociaciones
+                Super Heroés
             </Link>
 
             <div className="navbar-collapse">
