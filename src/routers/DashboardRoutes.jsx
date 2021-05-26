@@ -4,6 +4,7 @@ import DcScreen from '../components/dc/DcScreen';
 import HeroScreen from '../components/heroes/HeroScreen';
 import MarvelScreen from '../components/marvel/MarvelScreen';
 import SearchScreen from '../components/search/SearchScreen';
+import Footer from '../components/ui/Footer';
 import NavBarra from '../components/ui/NavBarra'
 
 const DashboardRoutes = () => {
@@ -19,6 +20,8 @@ const DashboardRoutes = () => {
                     <Redirect to="/marvel" />
                 </Switch>
             </div>
+            <br />
+            <Footer />
         </>
      );
 }
